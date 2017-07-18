@@ -1,0 +1,9 @@
+<xml>
+<ToUserName><![CDATA[fromUser]]></ToUserName>
+<FromUserName><![CDATA[隔壁老王]]></FromUserName>
+<CreateTime>1496392586</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<Image>
+<MediaId><![CDATA[HMqPQ6if9l18ISY8k7fblAsVHCXyinnzACY7eJP_NNqOzBAxKPVYh-z6wFHyqJa3]]></MediaId>
+</Image>
+</xml>
